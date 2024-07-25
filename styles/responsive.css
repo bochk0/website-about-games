@@ -54,9 +54,6 @@
         background: var(--main-color);
         padding: 12px 17px;
     }
-    .screenshots-content{
-        grid-template-columns: repeat(auto-fit, minmax(250px, 300px));
-    }
 }
 
 /* For Small Devices */
